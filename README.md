@@ -29,4 +29,4 @@ A desktop app built with **Java + JavaFX** for managing a movie catalog with adv
 
 ---
 
-**Developer:** *(Your Name)*
+**Developer: Waleed Noubani
